@@ -10,8 +10,7 @@ then type
 
 
 
-
- # Tested
+# Tested
 tested on Linux Mint 18 Cinnamon 64-bit
 		cinnamon version 3.0.7
 
